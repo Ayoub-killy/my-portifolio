@@ -129,19 +129,21 @@
     }
 
     /* Contact */
-    .contact form {
+    .contact{
       max-width: 500px;
       margin: auto;
       display: flex;
       flex-direction: column;
     }
     .contact input, .contact textarea {
+      width: 75%;
       padding: 10px;
       margin: 10px 0;
       border: 1px solid #ccc;
       border-radius: 6px;
     }
     .contact button {
+      width: 75%;
       background: #222;
       color: #fff;
       border: none;
