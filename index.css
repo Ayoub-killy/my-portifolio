@@ -124,11 +124,6 @@
       box-shadow: 0 4px 6px rgba(0,0,0,0.1);
       transition: 0.3s;
     }
-    .school-election{
-      height: 80px;
-      width: 90px;
-      border-radius: 10px;
-    }
     .project:hover {
       transform: translateY(-5px);
     }
