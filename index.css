@@ -271,3 +271,13 @@
     body.dark footer {
       background: #111;
     }
+    /* Responsiveness */
+    @media(max-width: 400px){
+      header {
+      background: #222;
+      color: #fff;
+      padding: 70px 20%;
+      text-align: center;
+      position: relative;
+    }
+    }
